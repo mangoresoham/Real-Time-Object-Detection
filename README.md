@@ -26,6 +26,8 @@
   .\environment_name\Scripts\activate
   ```
 
+- Download the Yolov8l.pt file from here- https://github.com/ultralytics/ultralytics
+
 - If the YOLOv8l model is to heavy for your system or if u want any other version of the yolov8 then just change the file and it's location from the 'server.py' file 😉.
 
 - Make sure to run the 'server.py' file first and also change the IP in the 'client.py' file, as the code only works for the devices connected to the same wifi network 😇.
